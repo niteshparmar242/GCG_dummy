@@ -1,0 +1,341 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Light
+FamilyName:Gotham Light
+StyleName:Regular
+FullName:Gotham-Light
+MenuName:Gotham Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\Gotham Light Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29656
+FileModTime:1419668844
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Light
+NameArray:0,Win,1,Gotham Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Black
+FamilyName:Gotham Black
+StyleName:Regular
+FullName:Gotham-Black
+MenuName:Gotham Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\Gotham-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30608
+FileModTime:1468927434
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Black
+NameArray:0,Win,1,Gotham Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+FullName:Gotham Book
+MenuName:Gotham Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\Gotham-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128020
+FileModTime:1187126622
+WeightClass:325
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+FullName:Gotham Medium
+MenuName:Gotham Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\Gotham-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102900
+FileModTime:1573484580
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Medium
+NameArray:0,Win,1,Gotham Medium
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Thin
+FamilyName:Gotham Thin
+StyleName:Regular
+FullName:Gotham-Thin
+MenuName:Gotham Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\Gotham-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30412
+FileModTime:1468927434
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Thin
+NameArray:0,Win,1,Gotham Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-ThinItalic
+FamilyName:Gotham Thin
+StyleName:Italic
+FullName:Gotham-ThinItalic
+MenuName:Gotham Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\Gotham-ThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32720
+FileModTime:1468927432
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-ThinItalic
+NameArray:0,Win,1,Gotham Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-UltraItalic
+FamilyName:Gotham Ultra
+StyleName:Italic
+FullName:Gotham-UltraItalic
+MenuName:Gotham Ultra
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\Gotham-UltraItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31504
+FileModTime:1468927434
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-UltraItalic
+NameArray:0,Win,1,Gotham Ultra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+FullName:Gotham-Bold
+MenuName:Gotham
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\GothamBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45744
+FileModTime:1468927432
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Bold
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-BoldItalic
+FamilyName:Gotham
+StyleName:Bold Italic
+FullName:Gotham-BoldItalic
+MenuName:Gotham
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\GothamBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43928
+FileModTime:1468927434
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-BoldItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+FullName:Gotham-Book
+MenuName:Gotham
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\GothamBook.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56676
+FileModTime:1468927432
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Book
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-BookItalic
+FamilyName:Gotham
+StyleName:Book Italic
+FullName:Gotham-BookItalic
+MenuName:Gotham
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\GothamBookItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44136
+FileModTime:1468927434
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-BookItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Light
+FamilyName:Gotham
+StyleName:Light
+FullName:Gotham-Light
+MenuName:Gotham
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\GothamLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56508
+FileModTime:1468927432
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Light
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-LightItalic
+FamilyName:Gotham
+StyleName:Light Italic
+FullName:Gotham-LightItalic
+MenuName:Gotham
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\GothamLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44364
+FileModTime:1468927432
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-LightItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+FullName:Gotham-Medium
+MenuName:Gotham
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\NITESH PARMAR\Desktop\Intlum\Font\GothamMedium_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55980
+FileModTime:1468927432
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Medium
+NameArray:0,Win,1,Gotham
+%EndFont
+
